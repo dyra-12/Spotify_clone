@@ -6,11 +6,10 @@ The Spotify Clone website is a project that aims to replicate some of the key fe
 </p>
 
 <h3>Features:</h3>
-<p>
   <li>Browse Music: Users can browse through a catalog of music tracks, organized by categories such as trending, top charts, genres, or artists. They can view album artwork, track titles, and artist names.</li>
   <li>Playback Controls: Users can play, pause, skip, and adjust the volume of songs using intuitive playback controls. The currently playing track is highlighted, and users can see the progress of the song.</li>
   <li>Responsive Design: The website is designed to be responsive, ensuring a seamless experience across devices of various screen sizes, including desktops, tablets, and smartphones.</li>
-</p>
+
 
 <h3>Tech Stack:</h3>
 <ul>
